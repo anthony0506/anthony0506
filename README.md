@@ -1,18 +1,6 @@
-<h1 align="center">Hi there 👋! Nice to see you.</h1>
 <h2 align="center">I am a Front End & Blockchain Developer.</h2>
 
-👦🏻 **Pronouns**: He/Him
-
-🔭 **I’m currently working on**: Frontend with **React** and **Angular**, Backend with **Node**, **Django** and **Go** (for real though, I love starting stuff from scratch and fresh ideas). Right now I'm obsessed with React, Python and Go.
-
-🌱 **I’m currently learning**: **Spring Boot** and **Web3**.
-
-👯 **I’m looking to collaborate on**: open-source projects, StackOverflow knowledge, the core of any amazing frameworks, overthrowing capitalism.
-
-💬 **Ask me about**: that time I invented a new risotto recipe during quarantine, or anything Gatsby-related.
-
-⚡ **Fun fact**: I love a challenge. That's why I run half-marathons, I play the guitar and still haven't given up on
-playing soccer professionally. I know I can do it. 
+I am an experienced web developer who's ready for new challenges, maybe it is my pleasure. I have spent most of my 10 years’ career in web development - starting with JavaScript and  PHP,  later working with React and Python, and now I'm almost mastering the front-end fields. I love making friends and being active even in works.
 
 <p align="center">
 <a href="https://github.com/anthony0506?tab=repositories&sort=stargazers">
@@ -95,10 +83,6 @@ playing soccer professionally. I know I can do it.
 <!-- <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>  -->
 <!-- <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> -->
-
-<br/>
-<h1 align="center">Now I'm here to work with you.</h1>
-
 
 
 <!--
